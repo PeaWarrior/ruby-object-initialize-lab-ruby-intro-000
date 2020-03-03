@@ -12,5 +12,5 @@ class Dog(name, breed)
   def breed
     @breed
   end
-
+end
 end
